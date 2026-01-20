@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m a data analyst who enjoys turning messy datasets into clear insights, building clean SQL pipelines, and asking why the numbers behave the way they do. From sports stats to agriculture analytics, I like to ask questions and learn how industries work as a whole.
+I’m a data analyst who enjoys turning messy datasets into clear insights, building clean SQL pipelines, and asking why the numbers are the way they dare. From sports stats to agriculture analytics, I like to ask questions and learn how industries work as a whole.
 
 I work mostly with sports 🏀⚾ and public data 🌍
 
