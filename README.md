@@ -8,11 +8,13 @@ End-to-end data analysis projects using SQL, Excel, PostgreSQL, and PowerBI tool
 
 # ⚡ Fun fact:
 
-Fueled by coffee  ☕
+Run on coffee  ☕
+
+Beer Enthusiast 🍺 
 
 Big fan of F1 🏎️ and baseball ⚾
 
-Proud plant parent 🌱
+Love Plants 🌱
 <!--
 **MonsteraHole/MonsteraHole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
